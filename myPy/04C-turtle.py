@@ -11,4 +11,4 @@ for x in range(4):
     t.left(90)
 
 #원 그리기
-t.circle(50)
+t.circle(70)
